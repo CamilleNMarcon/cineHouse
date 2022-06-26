@@ -1,0 +1,16 @@
+    [{ "codigo": 1,
+    "nomeFilme":"Harry Potter e a Pedra Filosofal",
+    "duracao": 2.32,
+    "anoDeLancamento":2001,
+    "atores":["Daniel Radcliffe", "Rupert Grint", "Emma Watson", "Richard Harris", "Maggie Smith", "Robbie Coltrane", "Alan Rickman","Ian Hart"],
+    "emCartaz":false
+},{
+    "codigo":2,
+    "nomeFilme":"Doutor Estranho no Multiverso da Loucura",
+    "duracao": 2.60,
+    "anoDeLancamento":2022,
+    "atores":["Benedict Cumberbatch", "Elizabeth Olsen", "Chiwetel Ejiofor", "Benedict Wong"],
+    "emCartaz":true
+
+}]
+
